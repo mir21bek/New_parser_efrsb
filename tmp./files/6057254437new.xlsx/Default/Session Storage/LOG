@@ -1,0 +1,18 @@
+2024/09/01-00:37:16.601 3df58b Reusing MANIFEST /home/tmp./files/6057254437new.xlsx/Default/Session Storage/MANIFEST-000001
+2024/09/01-00:37:16.602 3df58b Recovering log #13
+2024/09/01-00:37:16.602 3df58b Reusing old log /home/tmp./files/6057254437new.xlsx/Default/Session Storage/000013.log 
+2024/09/01-00:53:05.867 3df58c Level-0 table #17: started
+2024/09/01-00:53:05.870 3df58c Level-0 table #17: 16058 bytes OK
+2024/09/01-00:53:05.873 3df58c Delete type=0 #13
+2024/09/01-00:53:05.874 3df58c Compacting 4@0 + 1@1 files
+2024/09/01-00:53:05.878 3df58c Generated table #18@0: 1147 keys, 52779 bytes
+2024/09/01-00:53:05.878 3df58c Compacted 4@0 + 1@1 files => 52779 bytes
+2024/09/01-00:53:05.879 3df58c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/01-00:53:05.881 3df58c Delete type=2 #8
+2024/09/01-00:53:05.881 3df58c Delete type=2 #17
+2024/09/01-00:53:05.881 3df58c Delete type=2 #12
+2024/09/01-00:53:05.881 3df58c Delete type=2 #10
+2024/09/01-00:53:05.881 3df58c Delete type=2 #14
+2024/09/01-01:21:33.414 3df58c Level-0 table #20: started
+2024/09/01-01:21:33.417 3df58c Level-0 table #20: 15581 bytes OK
+2024/09/01-01:21:33.419 3df58c Delete type=0 #16

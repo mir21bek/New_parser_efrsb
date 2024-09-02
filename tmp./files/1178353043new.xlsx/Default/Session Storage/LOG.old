@@ -1,0 +1,51 @@
+2024/08/31-20:10:23.848 162d05 Reusing MANIFEST /home/tmp./files/1178353043new.xlsx/Default/Session Storage/MANIFEST-000001
+2024/08/31-20:10:23.849 162d05 Recovering log #3
+2024/08/31-20:10:23.852 162d05 Reusing old log /home/tmp./files/1178353043new.xlsx/Default/Session Storage/000003.log 
+2024/08/31-20:16:53.436 162d05 Level-0 table #5: started
+2024/08/31-20:16:53.438 162d05 Level-0 table #5: 15282 bytes OK
+2024/08/31-20:16:53.440 162d05 Delete type=0 #3
+2024/08/31-20:46:31.136 162d05 Level-0 table #7: started
+2024/08/31-20:46:31.141 162d05 Level-0 table #7: 15820 bytes OK
+2024/08/31-20:46:31.142 162d05 Delete type=0 #4
+2024/08/31-21:14:17.410 162d05 Level-0 table #9: started
+2024/08/31-21:14:17.416 162d05 Level-0 table #9: 15591 bytes OK
+2024/08/31-21:14:17.423 162d05 Delete type=0 #6
+2024/08/31-21:40:36.867 162d05 Level-0 table #11: started
+2024/08/31-21:40:36.873 162d05 Level-0 table #11: 15425 bytes OK
+2024/08/31-21:40:36.874 162d05 Delete type=0 #8
+2024/08/31-22:09:27.932 162d07 Level-0 table #13: started
+2024/08/31-22:09:27.935 162d07 Level-0 table #13: 15852 bytes OK
+2024/08/31-22:09:27.937 162d07 Delete type=0 #10
+2024/08/31-22:38:09.651 162d07 Level-0 table #15: started
+2024/08/31-22:38:09.654 162d07 Level-0 table #15: 15641 bytes OK
+2024/08/31-22:38:09.656 162d07 Delete type=0 #12
+2024/08/31-22:38:09.657 162d07 Compacting 4@0 + 1@1 files
+2024/08/31-22:38:09.660 162d07 Generated table #16@0: 1141 keys, 51808 bytes
+2024/08/31-22:38:09.660 162d07 Compacted 4@0 + 1@1 files => 51808 bytes
+2024/08/31-22:38:09.662 162d07 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/31-22:38:09.663 162d07 Delete type=2 #15
+2024/08/31-22:38:09.663 162d07 Delete type=2 #7
+2024/08/31-22:38:09.663 162d07 Delete type=2 #9
+2024/08/31-22:38:09.663 162d07 Delete type=2 #11
+2024/08/31-22:38:09.663 162d07 Delete type=2 #13
+2024/08/31-23:03:58.837 162d07 Level-0 table #18: started
+2024/08/31-23:03:58.840 162d07 Level-0 table #18: 15506 bytes OK
+2024/08/31-23:03:58.842 162d07 Delete type=0 #14
+2024/08/31-23:30:50.342 162d07 Level-0 table #20: started
+2024/08/31-23:30:50.345 162d07 Level-0 table #20: 15790 bytes OK
+2024/08/31-23:30:50.347 162d07 Delete type=0 #17
+2024/08/31-23:59:21.265 162d07 Level-0 table #22: started
+2024/08/31-23:59:21.269 162d07 Level-0 table #22: 15541 bytes OK
+2024/08/31-23:59:21.272 162d07 Delete type=0 #19
+2024/09/01-00:25:28.193 162d07 Level-0 table #24: started
+2024/09/01-00:25:28.196 162d07 Level-0 table #24: 15656 bytes OK
+2024/09/01-00:25:28.197 162d07 Delete type=0 #21
+2024/09/01-00:25:28.198 162d07 Compacting 4@0 + 1@1 files
+2024/09/01-00:25:28.201 162d07 Generated table #25@0: 2018 keys, 91882 bytes
+2024/09/01-00:25:28.201 162d07 Compacted 4@0 + 1@1 files => 91882 bytes
+2024/09/01-00:25:28.258 162d07 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/01-00:25:28.260 162d07 Delete type=2 #24
+2024/09/01-00:25:28.260 162d07 Delete type=2 #20
+2024/09/01-00:25:28.260 162d07 Delete type=2 #22
+2024/09/01-00:25:28.260 162d07 Delete type=2 #16
+2024/09/01-00:25:28.260 162d07 Delete type=2 #18

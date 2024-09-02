@@ -1,0 +1,6 @@
+2024/08/31-20:10:23.753 162d05 Reusing MANIFEST /home/tmp./files/1178353043new.xlsx/Default/Local Storage/leveldb/MANIFEST-000001
+2024/08/31-20:10:23.762 162d05 Recovering log #3
+2024/08/31-20:10:23.763 162d05 Reusing old log /home/tmp./files/1178353043new.xlsx/Default/Local Storage/leveldb/000003.log 
+2024/09/01-00:16:26.439 162d07 Level-0 table #5: started
+2024/09/01-00:16:26.442 162d07 Level-0 table #5: 7021 bytes OK
+2024/09/01-00:16:26.444 162d07 Delete type=0 #3

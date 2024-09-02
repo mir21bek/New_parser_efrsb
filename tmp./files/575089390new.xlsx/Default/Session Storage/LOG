@@ -1,0 +1,6 @@
+2024/08/31-14:28:36.930 1fe32f Reusing MANIFEST /home/tmp./files/575089390new.xlsx/Default/Session Storage/MANIFEST-000001
+2024/08/31-14:28:36.931 1fe32f Recovering log #4
+2024/08/31-14:28:36.932 1fe32f Reusing old log /home/tmp./files/575089390new.xlsx/Default/Session Storage/000004.log 
+2024/08/31-14:38:04.077 1fe330 Level-0 table #8: started
+2024/08/31-14:38:04.080 1fe330 Level-0 table #8: 16044 bytes OK
+2024/08/31-14:38:04.082 1fe330 Delete type=0 #4
